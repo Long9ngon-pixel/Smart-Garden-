@@ -40,11 +40,6 @@ Hệ thống vườn thông minh sử dụng **ESP32, Arduino, cảm biến môi
 ✅ Gửi cảnh báo khi phát hiện bất thường  
 ✅ Giao diện web hiển thị dữ liệu trực quan  
 
----
 
-## 📥 Cài Đặt
 
-### 1️⃣ **Clone repository**
-```sh
-git clone https://github.com/your-username/smart-garden.git
-cd smart-garden
+
