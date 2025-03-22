@@ -31,7 +31,7 @@
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="image/Model.png" alt="System Architecture" width="800"/>
+  <img src="Picture1.png" alt="System Architecture" width="800"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@ pip install numpy pandas flask tensorflow scikit-learn matplotlib pyserial
 
 ## 📰 Poster
 <p align="center">
-  <img src="poster.png" alt="Smart Garden Poster" width="800"/>
+  <img src="Poster.png" alt="Smart Garden Poster" width="800"/>
 </p>
 
 ## 🤝 Đóng góp
