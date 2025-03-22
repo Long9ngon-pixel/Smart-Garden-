@@ -143,7 +143,7 @@ pip install numpy pandas flask tensorflow scikit-learn matplotlib pyserial
 
 ## 📰 Poster
 <p align="center">
-  <img src="Poster.png" alt="Smart Garden Poster" width="800"/>
+  <img src="Poster.jpg" alt="Smart Garden Poster" width="800"/>
 </p>
 
 ## 🤝 Đóng góp
