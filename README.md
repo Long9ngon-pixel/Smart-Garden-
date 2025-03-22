@@ -153,8 +153,8 @@ Dự án được phát triển bởi 4 thành viên:
 |------------------------|------------------------------------------------------------------------|
 | Vũ Triệu Phú       | Phát triển toàn bộ mã nguồn, kiểm thử, triển khai dự án, Overleaf, và thực hiện video giới thiệu. |
 | Ngô Hữu Hoàng      | Powerpoint, Code giao diện esp32 , edit full video , đề xuất cải tiến, và hỗ trợ bài tập lớn. |
-| Nguyễn Quốc Hưng   | Thuyết trình. |
-| Đỗ Quốc Việt       |  Poster. |
+| Nguyễn Quốc Hưng   | Poster, đề xuất cải tiến, và hỗ trợ bài tập lớn.. |
+| Đỗ Quốc Việt       |  Poster, thuyết trình , đề xuất cải tiến, và hỗ trợ bài tập lớn. |
 
 
 © 2025 NHÓM 4, CNTT16-02, TRƯỜNG ĐẠI HỌC ĐẠI NAM
